@@ -1,0 +1,14 @@
+mat-card-title{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
+mat-form-field{
+    width: 100% !important;
+}
+.button1 button{
+    width: 100% !important;
+}
+.form{
+    margin-left: 40px;
+}
